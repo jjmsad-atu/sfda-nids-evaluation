@@ -1,0 +1,18 @@
+{
+  "H1_sfda_fails_on_resmlp": true,
+  "H1b_ranking_failure_by_model": {
+    "mlp": true,
+    "resmlp": true,
+    "rf": true,
+    "xgb": true
+  },
+  "H2_representation_informative": {
+    "mlp": true,
+    "resmlp": true
+  },
+  "H6_normalisation_not_the_cause": false,
+  "H3_smallest_random_budget_beating_best_clean_anchor": 100,
+  "H4_anchor_useless_at_20pct": false,
+  "H5_alignment_hypothesis_refuted": true,
+  "H5_bara_fixed_not_better_than_maha_at_5pct": true
+}
